@@ -1,7 +1,5 @@
 # RFID Attendance System with Google Sheets Integration
 
-// AKfycbyPJiQ043nRKhXtGbzQ-qSKIpt54fZ_pLAPmkIeIHIJXSJCNEPgGsKfEniYlTKu358l
-
 ## Overview
 
 This project implements an automated attendance system using RFID technology with data storage in Google Sheets. The system reads RFID tags, displays status on an LCD screen, provides audio feedback via a buzzer, and logs attendance records to a Google Sheet in real-time.
